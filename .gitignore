@@ -1,0 +1,13 @@
+*~
+*#
+bin
+gen
+local.properties
+.classpath
+.project
+.settings
+libs
+tmp
+proguard/
+target/
+lint.xml
